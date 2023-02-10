@@ -2,7 +2,7 @@
  
 ## Data Diri
  
-Nama: Niswah Nasyithah
-NPM : 2108107010034
+Nama  : Niswah Nasyithah
+NPM   : 2108107010034
 Kelas : B
 
