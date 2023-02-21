@@ -1,0 +1,77 @@
+body {
+    background-color: #a988bdb2;
+    font-family: sans-serif;
+    margin: 0;
+  }
+  
+  /* Set table to middle and add some border */
+  table {
+    margin: auto;
+    border: 1px solid #792cdeda;
+    margin-top: 10px;
+    border-collapse: collapse;
+    width: 70%;
+    border: 1px solid #ddd;
+    font-size: 20px;
+  }
+  
+  th, td {
+    border: 1px solid #a136ffb0;
+    text-align: center;
+    font-size: 18px;
+    padding: 14px;
+  }
+  
+  th {
+    background-color: #ba67cdd0;
+    font-size: 20px;
+    color: #fff;
+  }
+  
+  /* Header */
+  header {
+      padding: 5px;
+      text-align: center;
+      background: #aa8ed2;
+      color: white;
+      font-size: 20px;
+      margin-bottom: 50px;
+    }
+  
+  
+  footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background: #aa8ed2;
+    color: #fff;
+    text-align: center;
+  }
+  
+  .section-title {
+    text-align: center;  
+    font-size: 30px;
+    font-weight: bold;
+    color: #fff;
+  }
+  
+  /* make card profile and the position in the right side without using float */
+  .card-profile {
+    float: right;  
+    width: 25%;
+    margin-right: 15px;
+    margin-left: 15px;
+    margin-top: 0;
+    padding: 10px;
+    border: 5px solid #a988bdb2;
+    border-radius: 5px;
+    background-color: #d1ebf900;
+    font-size: 15px;
+  }
+  
+  .foto {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
